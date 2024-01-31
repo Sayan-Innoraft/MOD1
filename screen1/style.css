@@ -68,12 +68,13 @@ main .main-body nav ul {
 main .main-body nav ul li {
   margin: 32px 0;
   border: 1px solid #D2D2D2;
-  padding: 4px 12px;
-  border-radius: 12px;
+  padding: 5px 12px;
+  border-radius: 16px;
 }
 main .main-body nav ul li a {
   color: black;
   text-decoration: none;
+  font-size: 14px;
 }
 main .main-body nav ul li.selected {
   background-color: #FFD560;
